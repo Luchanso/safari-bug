@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const testCounter = 0;
+let testCounter = 0;
 
 export default function Home() {
   testCounter++;
